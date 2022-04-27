@@ -6,5 +6,5 @@ int secondNum = Convert.ToInt32(Console.ReadLine());
 int max = firstNum;
 if(secondNum > max) max = secondNum;
 
-Console.Write("Maximal number is ");
-Console.WriteLine(max);
+Console.Write(max);
+Console.WriteLine(" is bigger");
