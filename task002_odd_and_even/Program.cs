@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Enter a number ");
+﻿// Задача. Напишите программу, которая на вход принимает число
+// и выдаёт, является ли число чётным.
+
+Console.WriteLine("Enter a number ");
 int num = Convert.ToInt32(Console.Read());
 int par = num % 2;
 
