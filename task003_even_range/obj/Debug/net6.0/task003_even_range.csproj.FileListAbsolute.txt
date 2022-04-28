@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/bin/Debug/net6.0/task003_even_range
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/bin/Debug/net6.0/task003_even_range.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/bin/Debug/net6.0/task003_even_range.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/bin/Debug/net6.0/task003_even_range.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/bin/Debug/net6.0/task003_even_range.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/refint/task003_even_range.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/task003_even_range.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task003_even_range/obj/Debug/net6.0/ref/task003_even_range.dll
