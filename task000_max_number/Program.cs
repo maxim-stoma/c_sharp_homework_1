@@ -6,8 +6,17 @@ int firstNum = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter second number ");
 int secondNum = Convert.ToInt32(Console.ReadLine());
 
-int max = firstNum;
-if(secondNum > max) max = secondNum;
+if(firstNum > secondNum)
+{
+    Console.WriteLine(firstNum + " is bigger then " + secondNum);
+}
 
-Console.Write(max);
-Console.WriteLine(" is bigger");
+if(secondNum > firstNum)
+{
+    Console.WriteLine(secondNum + " is bigger then " + firstNum);
+}
+
+if(firstNum == secondNum)
+{
+    Console.WriteLine("Numbers are equal");
+}
