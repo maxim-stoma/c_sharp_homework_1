@@ -4,13 +4,15 @@
 Console.WriteLine("Enter the number ");
 int num = Convert.ToInt32(Console.ReadLine());
 
+if(num == 0) Console.WriteLine(num);
+
 for(int i = 1; i <= num; i++)
 {
     if(i % 2 == 0)
     {
         Console.Write(i);
 
-        if(i != num)
+        if(i != num & i != num-1)
         {
             Console.Write(",");
         }   
