@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/bin/Debug/net6.0/task002_odd_and_even
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/bin/Debug/net6.0/task002_odd_and_even.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/bin/Debug/net6.0/task002_odd_and_even.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/bin/Debug/net6.0/task002_odd_and_even.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/bin/Debug/net6.0/task002_odd_and_even.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/refint/task002_odd_and_even.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/task002_odd_and_even.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_0/task002_odd_and_even/obj/Debug/net6.0/ref/task002_odd_and_even.dll
