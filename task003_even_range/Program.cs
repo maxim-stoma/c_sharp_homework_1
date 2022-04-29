@@ -6,15 +6,19 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 if(num == 0) Console.WriteLine(num);
 
+Console.Write("Even range is: ");
+
 for(int i = 1; i <= num; i++)
 {
     if(i % 2 == 0)
     {
         Console.Write(i);
 
-        if(i != num & i != num-1)
+        if(i <= num - 2)
         {
-            Console.Write(",");
+            Console.Write(", ");
         }   
     }    
 }
+
+Console.ReadLine();

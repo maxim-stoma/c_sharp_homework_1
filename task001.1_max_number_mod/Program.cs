@@ -35,6 +35,6 @@ for (int i = 0; i < array.Length; i++)
 }
 
 Console.WriteLine("");
-Console.WriteLine($"Array Element {max} is maximal");
+Console.WriteLine($"Array element {max} is maximal");
 
 Console.ReadLine();
