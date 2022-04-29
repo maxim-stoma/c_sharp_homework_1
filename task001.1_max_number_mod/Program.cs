@@ -1,19 +1,19 @@
 ﻿// Задача. Напишите программу, которая принимает на вход три числа,
 // и выдаёт максимальное из этих чисел 
 
-Console.Write("Enter the number of array elements:\t");
+Console.Write("Enter the number of array elements: ");
 
-int n = int.Parse(Console.ReadLine());
+var n = Convert.ToInt32(Console.ReadLine());
 
 int[] array = new int[n];
 
 for(int i = 0; i < array.Length; i++)
 {
-    Console.Write($"Enter an array element number {i}:\t ");
-    array[i] = int.Parse(Console.ReadLine());
+    Console.Write($"Enter an array element number {i}: ");
+    array[i] = Convert.ToInt32(Console.ReadLine());
 }
 
-Console.WriteLine("Displaying array elements: ");
+Console.Write("Displaying array elements: ");
 
 for (int i = 0; i < array.Length; i++)
 {
@@ -23,4 +23,18 @@ for (int i = 0; i < array.Length; i++)
         Console.Write(", "); 
     }
 }
+
+int max = array[0];
+
+for (int i = 0; i < array.Length; i++)
+{
+    if (array[i] > max)
+    {
+        max = array[i];
+    }
+}
+
+Console.WriteLine("");
+Console.WriteLine($"Array Element {max} is maximal");
+
 Console.ReadLine();
