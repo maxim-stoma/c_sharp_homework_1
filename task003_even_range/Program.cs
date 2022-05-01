@@ -5,8 +5,10 @@ Console.WriteLine("Enter the number ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 if(num == 0) Console.WriteLine(num);
-
-Console.Write("Even range is: ");
+else if(num < 0) Console.WriteLine("Error. The number is negative!");
+else
+{
+    Console.Write("Even range is: ");
 
 for(int i = 1; i <= num; i++)
 {
@@ -19,6 +21,7 @@ for(int i = 1; i <= num; i++)
             Console.Write(", ");
         }   
     }    
+}
 }
 
 Console.ReadLine();
